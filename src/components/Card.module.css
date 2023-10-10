@@ -1,0 +1,14 @@
+img{
+    width: 300px;
+    max-height: 310px;
+}
+.card_container{
+    max-width: 300px;
+    height:400px;
+    border-radius: 10px;
+}
+
+.card__desc{
+    color:yellow;
+    text-align: center;
+}

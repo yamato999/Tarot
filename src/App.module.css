@@ -1,0 +1,13 @@
+.body-container{
+    height:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("https://pro-reklam.ru/wp-content/uploads/2021/11/1618533660_46-phonoteka_org-p-cherno-korichnevii-fon-49.png")
+}
+
+.number{
+    color:yellow;
+    font-size:56px
+}

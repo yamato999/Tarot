@@ -1,0 +1,31 @@
+.image{
+    width: auto;
+    height: auto;
+}
+.image__container{
+    
+    position: relative;
+}
+
+.image__description{
+    color:yellow;
+    position:absolute;
+    bottom:0px;
+    font-size:24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.buttons{
+    background-color:#61CE70;
+    color:white;
+    padding: 8px 12px;
+    border-radius: 4px;
+    border: 2px solid white;
+    margin: 0 100px;
+}
+
+.buttons_container{
+    display:flex;
+    justify-content: space-between;
+}
